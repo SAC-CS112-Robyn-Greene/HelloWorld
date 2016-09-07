@@ -19,3 +19,4 @@ public class HelloWorld {
     }
     
 }
+//Now you're set...and it looks as if you've integrated Github with Netbean
